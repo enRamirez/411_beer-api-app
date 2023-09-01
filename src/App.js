@@ -36,7 +36,7 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
-        <span className="pageTitle">cheers!</span>
+        <span className="pageTitle">Bottoms Up!</span>
           <ul>
             {this.state.beers.map((beer, index) => {
               return <Beer singleBeer={beer} key={index}/>

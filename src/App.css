@@ -1,6 +1,6 @@
 body {
   margin: 0;
-  background-color: white;
+  background-color: rgb(114, 12, 12);
   display: flex;
   justify-content: center;
   font-family: 'Nunito Sans', sans-serif;
@@ -17,7 +17,7 @@ body {
   font-style: italic;
   font-weight: 900;
   font-size: 50px;
-  color: rgb(156, 104, 152);
+  color: rgb(20, 231, 30);
 }
 
 ul {
